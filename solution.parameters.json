@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "Location": {
-            "value": "[resourceGroup().location]"
+            "value": "northeurope"
         },
         "NamePrefix": {
             "value": ""
